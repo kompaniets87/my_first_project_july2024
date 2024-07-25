@@ -1,0 +1,1 @@
+{"name":"my_first_project_july2024","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"chai":"^4.5.0","mocha":"^10.7.0","react-native":"0.74.3","supertest":"^7.0.0"}}
